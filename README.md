@@ -6,7 +6,7 @@
   
   
   ### 1. Register yourself for Hacktoberfest
-##### Link to register: https://hacktoberfest.digitalocean.com/loginhttps://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fwp.laravel-news.com%2Fwp-content%2Fuploads%2F2019%2F10%2Fhacktoberfest.jpg%3Ffit%3D2200%252C1100%26ssl%3D1%3Fresize%3D2200%252C1125&imgrefurl=https%3A%2F%2Flaravel-news.com%2Fhacktoberfest-2019&tbnid=QCtF8_VtAZPwJM&vet=12ahUKEwj_mMqs9cPsAhWYKbcAHSI4DiUQMygDegUIARCkAQ..i&docid=ZVPG4wtoRWPsuM&w=2200&h=1100&q=hacktoberfest%20images&ved=2ahUKEwj_mMqs9cPsAhWYKbcAHSI4DiUQMygDegUIARCkAQ
+##### Link to register: https://hacktoberfest.digitalocean.com/login
 Click on "Start Hacking" and sign in with your GitHub account.
 
 ![Screenshot-HFST](https://hacktoberfestswaglist.com/img/Hacktoberfest_20.jpg)
