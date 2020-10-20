@@ -1,10 +1,7 @@
 # Hacktoberfest_2020
   Hacktober fest is a celebration open to everyone in the global community. It is held from October 1st to October 31st worldwide. It is a great oppurtunity/platform for people from beginner stage to professional developer to learn more about open source and contribute effectively for the same.IT is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
- 
- <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fwp.laravel-news.com%2Fwp-content%2Fuploads%2F2019%2F10%2Fhacktoberfest.jpg%3Ffit%3D2200%252C1100%26ssl%3D1%3Fresize%3D2200%252C1125&imgrefurl=https%3A%2F%2Flaravel-news.com%2Fhacktoberfest-2019&tbnid=QCtF8_VtAZPwJM&vet=12ahUKEwj_mMqs9cPsAhWYKbcAHSI4DiUQMygDegUIARCkAQ..i&docid=ZVPG4wtoRWPsuM&w=2200&h=1100&q=hacktoberfest%20images&ved=2ahUKEwj_mMqs9cPsAhWYKbcAHSI4DiUQMygDegUIARCkAQ">
- 
- 
- 
+  
+ <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhackernoon.com%2Fdrafts%2Fhyp32ub.png&imgrefurl=https%3A%2F%2Fhackernoon.com%2Fhacktoberfest-2019-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-nb1o2wpm&tbnid=GzUfCVrPNzhoyM&vet=12ahUKEwj_mMqs9cPsAhWYKbcAHSI4DiUQMygLegUIARC1AQ..i&docid=6B65B1MkUh1RIM&w=1316&h=700&q=hacktoberfest%20images&ved=2ahUKEwj_mMqs9cPsAhWYKbcAHSI4DiUQMygLegUIARC1AQ">
   
   ### 1. Register yourself for Hacktoberfest
 ##### Link to register: https://hacktoberfest.digitalocean.com/login
